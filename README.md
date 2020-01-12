@@ -3,33 +3,35 @@ Our Signature version of the MrmSchematic is designed to give a complete overvie
 
 ![mrm_featured_image_wide_sch](https://user-images.githubusercontent.com/9861917/64063342-07ddd680-cc11-11e9-92f1-0dc6170d6732.jpg)
 
+
 ## Use the Map
 copy the code below and paste in your website or blog to display the latest version of the map:
 
-#### Mumbai Rail Map - Schematic - in English:
+#### Mumbai Rail Map - Schematic - English:
 ```
 <a href="https://localsofmumbai.com/"><img border="0" src="https://maps.localsofmumbai.com/en/schematic.jpg" alt="Mumbai Rail Map" width="100% auto"></a>
 ```
 
-#### Mumbai Rail Ma - Schematic - in Hindi:
+#### Mumbai Rail Map - Schematic - Hindi:
 ```
 <a href="https://localsofmumbai.com/"><img border="0" src="https://maps.localsofmumbai.com/hi/schematic.jpg" alt="Mumbai Rail Map" width="100% auto"></a>
 ```
 
-#### Mumbai Rail Ma - Schematic - in Marathi:
+#### Mumbai Rail Map - Schematic - Marathi:
 ```
 <a href="https://localsofmumbai.com/"><img border="0" src="https://maps.localsofmumbai.com/mr/schematic.jpg" alt="Mumbai Rail Map" width="100% auto"></a>
 ```
 
-#### Mumbai Rail Mai in Gujarati:
+#### Mumbai Rail Map - Schematic - Gujarati:
 ```
 <a href="https://localsofmumbai.com/"><img border="0" src="https://maps.localsofmumbai.com/gu/schematic.jpg" alt="Mumbai Rail Map" width="100% auto"></a>
 ```
 
-#### Mumbai Rail Ma - Schematic - in Urdu:
+#### Mumbai Rail Map - Schematic - Urdu:
 ```
 <a href="https://localsofmumbai.com/"><img border="0" src="https://maps.localsofmumbai.com/ur/schematic.jpg" alt="Mumbai Rail Map" width="100% auto"></a>
 ```
+
 
 ## Contribute to the Map
 
