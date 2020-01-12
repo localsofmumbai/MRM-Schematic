@@ -4,7 +4,7 @@ Our Signature version of the MrmSchematic is designed to give a complete overvie
 ![mrm_featured_image_wide_sch](https://user-images.githubusercontent.com/9861917/64063342-07ddd680-cc11-11e9-92f1-0dc6170d6732.jpg)
 
 ## Use the Map
-copy and paste the code below and paste in your website or blog to display the latest version of the map:
+copy the code below and paste in your website or blog to display the latest version of the map:
 
 #### Mumbai Rail Map - Schematic - in English:
 ```
